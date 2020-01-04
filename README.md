@@ -1,3 +1,9 @@
+# 书单
+### 记录每年读过的书籍，并随手写下自己的一些看法，从 2019 年开始，没有结束。
+## [2020 年读书书单](https://github.com/zhanwen/booklist/blob/master/2020%E5%B9%B4%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
+## [2019 年读书书单](https://github.com/zhanwen/booklist)
+
+
 # 2019 年书单
 ## 二月
 #### 《secrets-of-self-made-millionaires-by-adam-khoo》 adam-khoo  2月 完   
