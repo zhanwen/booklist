@@ -4,7 +4,7 @@
 ## [2021 年读书笔记](https://github.com/zhanwen/booklist/blob/master/2021%E5%B9%B4%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
 ## [2020 年读书笔记](https://github.com/zhanwen/booklist/blob/master/2020%E5%B9%B4%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
 ##  [2019 年读书笔记](https://github.com/zhanwen/booklist/blob/master/2019%E5%B9%B4%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
-
+##  [有声书单](https://github.com/zhanwen/booklist/blob/master/%E6%9C%89%E5%A3%B0%E4%B9%A6%E8%AE%B0%E5%BD%95.md)
 ### 书籍清单
 1. 《secrets-of-self-made-millionaires-by-adam-khoo》 adam-khoo   
 2. 《曾国藩的正面与反面》 张宏杰   
