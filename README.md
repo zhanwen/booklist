@@ -1,5 +1,6 @@
 # 书单
 ### 记录每年读过的书籍，并随手写下自己的一些看法，从 2019 年开始，没有结束。
+## [2021 年读书笔记](https://github.com/zhanwen/booklist/blob/master/2021%E5%B9%B4%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
 ## [2020 年读书笔记](https://github.com/zhanwen/booklist/blob/master/2020%E5%B9%B4%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
 ## [2019 年读书笔记](https://github.com/zhanwen/booklist)
 
@@ -128,6 +129,9 @@
 122. 《红色资本》
 123. 《中国先生的购并往事》系列
 124. 《投资远航》黄建平
+125. 《以交易为生》亚历山大·埃尔德 2刷
+126. 《100倍超级强势股》杰西·斯恩泰
+127. 《股票魔法师》Mark Minervini  2刷
 
  
 ### 看不下去的书单
