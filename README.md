@@ -1,5 +1,5 @@
 # 书单
-### 记录每年读过的书籍，并随手写下自己的一些看法，从 2019 年开始，没有结束。
+### 记录每年读过的书籍，并随手写下自己的一些看法，从 2019 年开始
 ## [2022 年读书笔记](https://github.com/zhanwen/booklist/blob/master/2022%E5%B9%B4%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
 ## [2021 年读书笔记](https://github.com/zhanwen/booklist/blob/master/2021%E5%B9%B4%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
 ## [2020 年读书笔记](https://github.com/zhanwen/booklist/blob/master/2020%E5%B9%B4%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
@@ -158,6 +158,7 @@
 150. 《祖鲁法则-如何选择成长股》吉姆·斯莱特
 151. 《遥远的救世主》豆豆
 152. 《超越期待》松浦弥太郎
+153. 《趣说中国史2》趣哥
 
  
 ### 待看
